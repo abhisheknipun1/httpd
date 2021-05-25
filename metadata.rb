@@ -1,9 +1,9 @@
 name 'httpd'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
+maintainer 'Abhi'
+maintainer_email 'Abhi@example.com'
 license 'All Rights Reserved'
 description 'Installs/Configures httpd'
-version '0.1.1'
+version '0.1.2'
 chef_version '>= 15.0'
 
 # The `issues_url` points to the location where issues for this cookbook are
